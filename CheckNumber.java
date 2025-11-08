@@ -9,8 +9,10 @@ class CheckTheNumber {
         }
     }
 }
-public class checkNumber {
-        public static void main(String[] args) {
+public class CheckNumber {      
+ public static void main(String[] args) {
         CheckTheNumber.checkNumbers(0);
     }
+
+    
 }
