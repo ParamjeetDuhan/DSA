@@ -1,3 +1,4 @@
+package NumberGame;
 class CheckTheNumber {
     public static void checkNumbers(int a) {
         if (a > 0) {

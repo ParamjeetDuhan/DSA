@@ -1,3 +1,4 @@
+package IdentifyShape;
 class checkTriangle{
     public static void basedOnSide(int a, int b, int c){
         if ((a+b>c)&&(a+c>b)&&(b+c>a)) {

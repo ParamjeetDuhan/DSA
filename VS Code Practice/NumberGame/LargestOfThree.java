@@ -1,3 +1,4 @@
+package NumberGame;
  class InnerLargestOfThree {
  public static void check(int a, int b, int c){
     if ((a>b && a>c)) {

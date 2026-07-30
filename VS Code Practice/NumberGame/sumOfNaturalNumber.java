@@ -1,3 +1,4 @@
+package NumberGame;
 class sumofNumber{
     public static void sumOfNaturalNumbers(int N){
          int sum=0;

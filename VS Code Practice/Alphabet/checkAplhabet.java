@@ -1,3 +1,4 @@
+package Alphabet;
 class checkAplhabets{
     public static void Check(String alpha){
         if((alpha=="a")||(alpha=="e")||(alpha=="i")||(alpha=="o")||(alpha=="u")){

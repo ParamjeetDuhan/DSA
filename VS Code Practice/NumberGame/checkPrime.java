@@ -1,3 +1,4 @@
+package NumberGame;
 class checkPrimeNumber{
     public static void checkPrimeOrNot(int N){
         int count =1;

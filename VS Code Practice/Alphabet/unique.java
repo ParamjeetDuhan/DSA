@@ -1,3 +1,4 @@
+package Alphabet;
 import java.util.*;
 public class unique{
      public static void main(String[] args) {
