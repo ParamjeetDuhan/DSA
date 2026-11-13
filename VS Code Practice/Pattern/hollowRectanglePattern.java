@@ -1,13 +1,14 @@
 public class hollowRectanglePattern{
     void main(){
-        for(int i = 0;i<=4;i++){
-              for(int j=0;j<=5;j++){
-                  if(i == 0 || i==4){
-                      System.out.print("*"+' ');
+        int n=4;
+        for(int row = 0;row<=n;row++){
+              for(int col=0;col<=5;col++){
+                  if(row == 0 || row==n){
+                      System.out.print("* ");
                   }
-                  else if(i==1 || i== 2 || i== 3){
-                        if(j==0 || j==5){
-                            System.out.print("*"+' '+' '+' '+' '+' ');
+                  else{
+                        if(col==0 || col==5){
+                            System.out.print("*     ");
                         }
                         else{
                              System.out.print(' ');
